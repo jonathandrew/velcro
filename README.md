@@ -7,6 +7,14 @@ Ever wondered how Bootstrap works under the hood? Let's strip the engine out and
 
 Without metaphor: we're going to learn more about how Bootstrap works by implementing our own version called Velcro. Our HTML uses Bootstrap classes for its layout--`row` and `container` and `col-sm-4` and `col-12` and so on--but there's no Bootstrap css. We're going to make the Velcro versions of those classes and thus make our own bespoke drop-in replacement for Bootstrap.
 
+It's going to be so good that people will confuse your version and Twitter's version.
+
+It'll be like this:
+
+---
+
+![Spiderman and Fake Spiderman Point at Each Other](https://media1.tenor.com/images/837072ca19e3c5cebea76e2693f3100d/tenor.gif?itemid=11796793)
+
 
 ### Guidelines
 
