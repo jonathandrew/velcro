@@ -1,3 +1,4 @@
+/* `box-sizing` will greatly improve your column calculations. */
 * {
   box-sizing: border-box;
 }
