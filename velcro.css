@@ -1,19 +1,21 @@
-/* `box-sizing` will greatly improve your column calculations. */
+/* `box-sizing` will greatly improve your column calculations, so we've given you a bit of a head start! */
 * {
   box-sizing: border-box;
 }
 
+/* You'll need to implement this one */
 .container {
 
 }
 
+/* And this one. */
 .row {
 
 }
 
 /*
 
-Required layout classes:
+And these classes:
 
 ### xs
 * col-2
